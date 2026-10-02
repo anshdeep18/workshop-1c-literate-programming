@@ -1,7 +1,7 @@
 ---
-title: "Coursework Template"
-subtitle: 'MSc in Statistics 2025/26, Imperial College London'
-author: "Andrew Duncan, Oliver Ratmann"
+title: "Do Penguin Species Differ in Body Mass?"
+subtitle: 'Literate Progamming Workshop, MSc in Statistics 2026/27'
+author: "Anshdeep Singh"
 format:
   html:
     toc: true
